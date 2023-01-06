@@ -1,4 +1,4 @@
-# Joseohus
+# Josephus
 Show Josephus Problem
 
 
